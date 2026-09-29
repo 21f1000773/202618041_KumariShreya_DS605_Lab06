@@ -102,3 +102,7 @@ python part_a_images.py
 python part_b_text.py
 python part_c_improve.py
 python part_c_compare.py
+
+## Sample visualization
+
+![Sample crack vs non-crack images with Canny edges](data/sample_visualization.png)
